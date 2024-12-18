@@ -1581,6 +1581,15 @@ input, select, textarea {
 			top: 1.75em;
 			margin: -4.5em 0 4.25em -3.5em;
 		}
+		.box .image.custom {
+			position: relative;
+			/* width: auto; */
+			width: 100%;
+			/* center */
+			left: 3.75em;
+			top: 1.75em;
+			margin: -4.5em 0 3.75em -3.5em;
+		}
 
 		.box.post header {
 			padding-top: 1em;
